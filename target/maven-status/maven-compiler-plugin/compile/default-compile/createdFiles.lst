@@ -1,0 +1,4 @@
+clientesmaven\model\entities\Cliente_.class
+clientesmaven\model\entities\Cliente.class
+clientesmaven\model\ModelCliente.class
+clientesmaven\controller\ControllerCliente.class
